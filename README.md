@@ -1,4 +1,4 @@
-00++--# Online Reservation System (Java Swing)
+# Online Reservation System (Java Swing)
 
 A **Core Java + Swing** desktop application that simulates an online railway reservation system.  
 Users can **login/register**, **book tickets**, get an auto-generated **PNR**, **view reservations** by PNR, and **cancel tickets** by PNR.
